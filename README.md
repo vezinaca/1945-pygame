@@ -3,6 +3,10 @@
 A Python 3 and Pygame arcade shooter with varied enemy planes, boats, scrolling
 islands, curved formations, and collectible weapon upgrades.
 
+Based on [1945 by Haroon Khalid](https://github.com/sodacrunch/1945).
+This fork preserves the original history and adds Python 3 support, gameplay
+fixes, new enemy behavior, power-ups, and regression tests.
+
 ## Run
 
 From the project directory:
